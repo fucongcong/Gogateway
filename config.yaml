@@ -1,0 +1,4 @@
+#registry
+registry.scheme: redis
+registry.redis.network: tcp
+registry.redis.addr: 127.0.0.1:6379
